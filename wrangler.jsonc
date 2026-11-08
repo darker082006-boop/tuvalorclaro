@@ -1,6 +1,7 @@
 {
-  "name": "valor-claro",
+  "name": "tuvalorclaro",
   "main": "worker.js",
   "compatibility_date": "2026-11-01",
+  "vars": { "MAILERLITE_GROUP": "203528434551359340" },
   "assets": { "directory": "./", "binding": "ASSETS", "not_found_handling": "404-page", "html_handling": "drop-trailing-slash", "run_worker_first": ["/api/*"] }
 }
